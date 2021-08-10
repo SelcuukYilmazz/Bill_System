@@ -1,2 +1,2 @@
 # Bill_System
-It is a bill system you buy and you see your bills
+Produces a billing information for each user from a price list and a shopping list. Sample input files are included. 
